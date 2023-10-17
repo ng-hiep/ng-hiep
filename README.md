@@ -1,4 +1,5 @@
-<h1 style="alight:center"> Hi there, my name is Hiep! </h1>
+<h1 align="center">Hi there, my name is Hiep.</h1>
+<h3 align="center">Just a man!</h3>
 
 
   
