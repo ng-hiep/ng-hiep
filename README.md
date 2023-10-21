@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=mongo" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="65" height="65">
 
 <img src="https://skillicons.dev/icons?i=rust" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="65" height="65">
+
+<img src="https://skillicons.dev/icons?i=ubuntu" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="65" height="65">
 </div>
 
 <br><br>
