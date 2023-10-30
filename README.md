@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 
-## Interected in:
+## Interested in:
 
 
 <div dir="auto"  style="display: flex; align-items: center; justify-content: center;">
