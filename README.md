@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="assets/imgs/logo.png" alt="logo" style="height: 100px; width:100px;"/>
   <br>
+  <br>
   <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%FFCCCC&size=32&center=true&vCenter=true&width=600&height=50&lines=Xin+chào,+mình+là+Hiệp+%F0%9F%90%B3;¡Solo+un+soñador!+%F0%9F%92%B3;Data+Engineer+%F0%9F%92%A4" alt="Headline" />
   </div>
