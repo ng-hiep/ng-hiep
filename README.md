@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="assets/imgs/logo.png" alt="logo" style="height: 100px; width:100px;"/>
+  <a href="https://ntphiep.github.io/"><img src="assets/imgs/logo.png" alt="logo" style="height: 100px; width:100px;"/></a>
   <br>
   <br>
   <div align=center>
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 ## GitHub Analytics ⚙️ &nbsp;
 <p align="">
 <a href="https://github.com/ntphiep">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ntphiep&layout=compact&langs_count=8&theme=algolia"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ntphiep&layout=compact&langs_count=8&theme=algolia" style="margin: 0 5px"/> 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ntphiep&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
