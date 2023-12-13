@@ -73,14 +73,15 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=gcp" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
-<img src="https://skillicons.dev/icons?i=java" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
+<img src="https://skillicons.dev/icons?i=rust" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="65" height="65">
 </div>
 
 
 
 <br><br>
 
+
+<h4 align="center">😙</h4>
 
 
 [![Hiep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ntphiep&theme=react-dark)](https://github.com/ntphiep/github-readme-activity-graph)
