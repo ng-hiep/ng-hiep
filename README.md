@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px > </h2>
 
-<div dir="auto"  style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align: center; justify-content: center;">
 
   <img src="https://skillicons.dev/icons?i=python" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
     
   <img src="https://skillicons.dev/icons?i=docker" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
-
+  
   <img src="https://skillicons.dev/icons?i=linux" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
   <img src="https://skillicons.dev/icons?i=postgres" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
@@ -63,6 +62,8 @@ Here are some ideas to get you started:
 
   <img src="https://skillicons.dev/icons?i=github" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
+  <img src="https://skillicons.dev/icons?i=git" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
+
   <img src="https://skillicons.dev/icons?i=django" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
   <img src="https://skillicons.dev/icons?i=kafka" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
@@ -71,7 +72,9 @@ Here are some ideas to get you started:
 
   <img src="https://skillicons.dev/icons?i=java" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
+  <img src="https://skillicons.dev/icons?i=js" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
+  <img src="https://skillicons.dev/icons?i=rust" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 </div>
 
 
@@ -89,10 +92,11 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ntphiep&label=Profile%20views&color=0e75b6&style=flat" alt="ntphiep" /></p>
 
+
 ## GitHub Analytics ⚙️ &nbsp;
 <p align="">
 <a href="https://github.com/ntphiep">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ntphiep&layout=compact&langs_count=8&theme=algolia" style="margin: 0 10px"/> 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ntphiep&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ntphiep&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="margin: 0 10px"/>
 </a>
 </p>
