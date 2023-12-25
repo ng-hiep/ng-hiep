@@ -7,10 +7,11 @@
   </div>
 </div>
 
-<br>
+<be>
 
-⚡I’m on my way to **Data Engineering / DevOps Engineering**
-
+- ⚡ I’m on my way to **Data Engineering / DevOps Engineering**
+- 🌱 I’m currently learning about Data, DevOps as well as ML
+- 🔭 More about me on: https://ntphiep.github.io/
 
 
 
