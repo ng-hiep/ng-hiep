@@ -10,12 +10,8 @@
 <br>
 
 - ⚡ I’m on my way to **Data Engineering / DevOps Engineering**
-- 🌱 I’m currently learning about Data, DevOps as well as ML
+- 🌱 I’m currently learning about **Data**, **DevOps** as well as **ML**
 - 🔭 More about me on: https://ntphiep.github.io/
-
-
-
-<!-- ![Alt text](image.png){:style="display:block; margin-left:auto; margin-right:auto"} -->
 
 
 
@@ -26,7 +22,6 @@
 
   
 <!--
-**ntphiep/ntphiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
