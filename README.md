@@ -91,6 +91,8 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ntphiep&label=Profile%20views&color=0e75b6&style=flat" alt="ntphiep" /></p>
 
 
+<!--
+
 ## GitHub Analytics ⚙️ &nbsp;
 <p align="">
 <a href="https://github.com/ntphiep">
@@ -98,3 +100,4 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ntphiep&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="margin: 0 10px"/>
 </a>
 </p>
+-->
