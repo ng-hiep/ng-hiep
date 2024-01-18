@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 
   <img src="https://skillicons.dev/icons?i=mongo" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
+  <img src="https://skillicons.dev/icons?i=redis" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
+
   <img src="https://skillicons.dev/icons?i=vscode" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
   <img src="https://skillicons.dev/icons?i=github" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
