@@ -80,8 +80,6 @@ Here are some ideas to get you started:
 
   <img src="https://skillicons.dev/icons?i=k8s" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
-  <img src="https://skillicons.dev/icons?i=gcp" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
   <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 </div>
 
