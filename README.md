@@ -11,7 +11,7 @@
 
 - ⚡ I’m on my way to **Data Engineering / DevOps Engineering**
 - 🌱 I’m currently learning about **Data**, **DevOps** as well as **ML**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Data Projects**
 - 🔭 More about me and my blog on: https://ntphiep.github.io/
 
 
@@ -70,12 +70,10 @@ Here are some ideas to get you started:
 
   <img src="https://skillicons.dev/icons?i=k8s" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-</div>
 
 
 
-<br><br>
+<br>
 
 
 <h4 align="center">😙</h4>
