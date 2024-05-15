@@ -7,16 +7,21 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%FFCCCC&size=32&center=true&vCenter=true&width=600&height=50&lines=Xin+chào,+mình+là+Hiệp+%F0%9F%90%B3;¡Solo+un+soñador!+%F0%9F%92%B3;Data+Engineer+%F0%9F%92%A4" alt="Headline" />
   </div>
 </div>
+-->
 
 # That's me, NTPH!
 
-<br>
+
+<!--
+<be>
+
+
 
 - ⚡ I’m on my way to **Data Engineering / DevOps Engineering**
 - 🌱 I’m currently learning about **Data**, **DevOps** as well as **ML**
 - 👯 I’m looking to collaborate on **OpenSource Data Projects**
 - 🔭 More about me and my blog on: https://ntphiep.github.io/
-
+-->
 
 <!-- <h1 align="center">Hi there, my name is Hiep.</h1>
 <h3 align="center">Just a man!</h3>
