@@ -1,3 +1,4 @@
+<!--
 <div id="header" align="center">
   <a href="https://ntphiep.github.io/"><img src="assets/imgs/logo.png" alt="logo" style="height: 100px; width:100px;"/></a>
   <br>
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px > </h2>
 
@@ -70,9 +71,9 @@ Here are some ideas to get you started:
 
   <img src="https://skillicons.dev/icons?i=k8s" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
+-->
 
-
-
+<!--
 <br>
 
 
@@ -85,7 +86,7 @@ Here are some ideas to get you started:
 
 
 
-
+-->
 
 <!--
 
