@@ -9,7 +9,7 @@
 </div>
 -->
 <div id="header" align="center">
-<h1>¡Hola a todos, Soy NTPH!</h1>
+<h1>¡NTPH!</h1>
 
 </div>
 
