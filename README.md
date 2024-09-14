@@ -9,8 +9,7 @@
 </div>
 -->
 <div id="header" align="center">
-<h1>¡NTPH!</h1>
-
+<h1>NTPH</h1>
 </div>
 
 <!--
